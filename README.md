@@ -7,7 +7,8 @@ Set of tools to generate and parse LIMS related token strings
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'token_utils_lims'
+gem "token_utils_lims", :git => "git://github.com/emrojo/token_utils_lims.git"
+
 ```
 
 And then execute:

@@ -10,9 +10,6 @@ Gem::Specification.new do |s|
     "lib/token_utils_lims.rb"
   ]
   s.require_paths = ["lib"]
-  s.add_development_dependency "bundler"
-  s.add_development_dependency "rake"
   s.add_development_dependency "rspec"
-  s.add_development_dependency "pry-byebug"
 end
 

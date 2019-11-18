@@ -22,3 +22,6 @@ Or install it yourself as:
 
     $ bundle exec rspec
 
+## Building the gem
+
+    $ gem build token_utils_lims.gemspec
